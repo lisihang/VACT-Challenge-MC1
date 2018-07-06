@@ -1,0 +1,100 @@
+body {
+  font: 10px sans-serif;
+}
+#view1{
+	position: absolute;
+	top: 10px;
+	bottom: 10px;
+	left: 10px;
+	right: 50%;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid black;
+}
+#view1m{
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+#view1-svg{
+	position: absolute;
+	top:0%;
+	bottom: 10%;
+	right: 0%;
+	left: 0%; 
+}
+
+#view2{
+	position: absolute;
+	top: 10px;
+	bottom: 50%;
+	left: 50%;
+	right: 10px;
+	border: 1px solid black;
+}
+#view2m{
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%;
+	border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: gray;
+}
+#view2-svg{
+	position: absolute;
+	top:10%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+
+#view3{
+	position: absolute;
+	top: 50%;
+	bottom: 25%;
+	left: 50%;
+	right: 10px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid black;
+}
+#view3m{
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+#view3-svg{
+	position: absolute;
+	top:10%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+
+#view4{
+	position: absolute;
+	top: 75%;
+	bottom: 10px;
+	left: 50%;
+	right: 10px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid black;
+}
+#view4m{
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+#view4-svg{
+	position: absolute;
+	top:10%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
