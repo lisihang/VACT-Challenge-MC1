@@ -28,7 +28,7 @@ body {
 #view2{
 	position: absolute;
 	top: 10px;
-	bottom: 50%;
+	bottom: 95%;
 	left: 50%;
 	right: 10px;
 	border: 1px solid black;
@@ -45,7 +45,7 @@ body {
 }
 #view2-svg{
 	position: absolute;
-	top:10%;
+	top: 0%;
 	bottom: 0%;
 	right: 0%;
 	left: 0%; 
@@ -53,8 +53,8 @@ body {
 
 #view3{
 	position: absolute;
-	top: 50%;
-	bottom: 25%;
+	top: 5%;
+	bottom: 50%;
 	left: 50%;
 	right: 10px;
 	padding: 10px 10px 10px 10px;
@@ -69,7 +69,7 @@ body {
 }
 #view3-svg{
 	position: absolute;
-	top:10%;
+	top:0%;
 	bottom: 0%;
 	right: 0%;
 	left: 0%; 
@@ -77,7 +77,7 @@ body {
 
 #view4{
 	position: absolute;
-	top: 75%;
+	top: 50%;
 	bottom: 10px;
 	left: 50%;
 	right: 10px;
@@ -94,6 +94,14 @@ body {
 #view4-svg{
 	position: absolute;
 	top:10%;
+	bottom: 0%;
+	right: 0%;
+	left: 0%; 
+}
+.svg
+{
+	position: absolute;
+	top: 0%;
 	bottom: 0%;
 	right: 0%;
 	left: 0%; 
